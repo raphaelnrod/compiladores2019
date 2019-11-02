@@ -1,0 +1,7 @@
+principal(){
+inteiro b=3;
+inteiro a=7;
+inteiro c=a+b;
+caracter imprime='Soma';
+escreva("%c=%d", imprime, c);
+}
